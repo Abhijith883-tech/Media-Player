@@ -1,0 +1,36 @@
+{
+  "uploadVideos": [
+    {
+      "id": "0acb",
+      "caption": "second",
+      "imgUrl": "https://th.bing.com/th/id/OIP.r1II0V_ASRqOknXKsGefawHaHa?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/OKBMCL-frPU"
+    },
+    {
+      "id": "5a29",
+      "caption": "three",
+      "imgUrl": "https://th.bing.com/th/id/OIP.HFIUZeMWESfwXNjotPfxOgAAAA?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/OKBMCL-frPU"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ce26",
+      "categoryName": "Movies",
+      "allVideos": []
+    },
+    {
+      "id": "927a",
+      "categoryName": "Trailer",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "8808",
+      "caption": "arm",
+      "youtubeLink": "https://www.youtube.com/embed/HEkzm8l4-vA",
+      "timeStamp": "12/29/2024, 11:37:48 PM GMT+5:30"
+    }
+  ]
+}
